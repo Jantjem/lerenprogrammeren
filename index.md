@@ -1,6 +1,6 @@
 ## P1xt Guides
 
-[Link to daily log](lerenprogrammeren/log.md)
+[Link to daily log](/log.md)
 
 ### Tier X - Math Prep
 
