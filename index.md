@@ -1,4 +1,6 @@
-## Junior developer
+## P1xt Guides
+
+[Link to daily log](lerenprogrammeren/log.md)
 
 ### Tier X - Math Prep
 
