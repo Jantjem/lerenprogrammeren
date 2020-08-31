@@ -43,3 +43,6 @@ Lets notice a few things above:
 
 it doesn't matter if we wrap a string in double quotes or single quotes, it is still a string (in a later course we'll learn a slight distinction between the two).
 we are able to differentiate the string "42" from the number 42 because the p method will actually print out the quotes that wrap the string data. Very cool!
+
+# String
+puts "string".length prints the numbers of characters in a string (a space is a character too)
