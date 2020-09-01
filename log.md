@@ -1,4 +1,4 @@
-31-8-2020
+## 31-8-2020
 
 Today I started App Academy Open and learners about the data types number and boolean.
 print is the simplest method used to print data. It will do minimal formatting and not even add a new line at the end of the print. 
@@ -46,3 +46,10 @@ we are able to differentiate the string "42" from the number 42 because the p me
 
 # String
 puts "string".length prints the numbers of characters in a string (a space is a character too)
+
+## 1-9-2020
+
+Today I only had a spare moment and learned about string length and indicing.
+Ex. puts "Hello".length prints 5
+    puts "Hello"[0] prints H, "Hello"[2] prints l
+
