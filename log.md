@@ -52,4 +52,8 @@ puts "string".length prints the numbers of characters in a string (a space is a 
 Today I only had a spare moment and learned about string length and indicing.
 Ex. puts "Hello".length prints 5
     puts "Hello"[0] prints H, "Hello"[2] prints l
+    
+## 7-9-2020
+
+I learned about Methods and Conditionals today. I have done a bit of Freecodecamp a few years ago, so it's not completely new, but that was in JavaScript and this time it's in Ruby. I keep doubting whether it's worth spending my time on programming. I can't imagine making something by myself and don't even have an image of what you can do with Ruby. But I liked the structured way of App Academy Open, so I will continue to see where it leads me.
 
